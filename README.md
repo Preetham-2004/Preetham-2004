@@ -2,42 +2,44 @@
   Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Preetham Bhat
 </h1>
 
-<p align="center"> <b>Engineer building intelligent applications, scalable backend systems, and practical AI solutions.</b> </p>
+<p align="center">
+  <b>Engineer building intelligent applications, scalable systems, and practical AI solutions.</b>
+</p>
 
-💻 Interested in Backend Engineering, AI/ML, and Full Stack Development
-🧠 Exploring Generative AI, RAG, AI Agents, and System Design
-🚀 Built projects across AI, web applications, APIs, and intelligent systems
-🤝 Open to engineering opportunities and interesting collaborations
-🌐 Portfolio: preetham-bhat.vercel.app
-📫 Reach me: preethambhat1104@gmail.com
-Connect with me
+<br>
 
-<p> <a href="https://www.linkedin.com/in/preetham-bhat-p1104/"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" alt="LinkedIn"/> </a> &nbsp;&nbsp; <a href="mailto:preethambhat1104@gmail.com"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" alt="Gmail"/> </a> &nbsp;&nbsp; <a href="https://preetham-bhat.vercel.app"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" alt="Portfolio"/> </a> </p>
+* 💻 Interested in **Backend Engineering, AI/ML & Full Stack Development**
+* 🧠 Exploring **Generative AI, RAG, AI Agents & System Design**
+* 🚀 Building projects across **AI, Web & Backend Systems**
+* 🤝 Open to **engineering opportunities & collaborations**
+* 🌐 Explore my work at **[preetham-bhat.vercel.app](https://preetham-bhat.vercel.app)**
+* 📫 Reach me at **[preethambhat1104@gmail.com](mailto:preethambhat1104@gmail.com)**
 
-Languages and Tools
+<br>
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,docker,gcp,git,github,linux,figma&theme=dark" /> </p>
 ### Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/preetham-bhat-p1104/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:preethambhat1104@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="36" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://preetham-bhat.vercel.app">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="36" alt="Portfolio"/>
   </a>
 </p>
 
-### Languages and Tools
+### Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,docker,gcp,git,github,linux,figma&theme=dark" />
 </p>
+
+<br>
 
 ### Contribution Arcade 🎮
 
