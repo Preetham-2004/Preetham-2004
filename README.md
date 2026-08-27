@@ -35,26 +35,44 @@
 
 <br>
 
-### Skills
+### ⚡ Skills
+
+**Languages**
 
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="42" alt="Python"/></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/></a>&nbsp;
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/></a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/></a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/></a>&nbsp;
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="42" alt="Redis"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/></a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/></a>&nbsp;
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=langchain" width="42" alt="LangChain"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/></a>
 </p>
 
+**Frontend & Backend**
+
+<p>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/></a>
+</p>
+
+**Databases & Infrastructure**
+
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/></a>&nbsp;
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="42" alt="Redis"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/></a>&nbsp;
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="42" alt="Google Cloud"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/></a>
+</p>
+
+**AI / ML**
+
+<p>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="PyTorch"/></a>
+</p>
+
+<sub>Always learning, always building — explore my repositories to see these technologies in action.</sub>
