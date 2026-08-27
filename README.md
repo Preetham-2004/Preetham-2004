@@ -17,3 +17,30 @@ Connect with me
 Languages and Tools
 
 <p> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,docker,gcp,git,github,linux,figma&theme=dark" /> </p>
+### Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/preetham-bhat-p1104/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:preethambhat1104@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://preetham-bhat.vercel.app">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" alt="Portfolio"/>
+  </a>
+</p>
+
+### Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,docker,gcp,git,github,linux,figma&theme=dark" />
+</p>
+
+### Contribution Arcade 🎮
+
+<p align="center">
+  <img src="./profile-game.svg" alt="Contribution Arcade" width="100%" />
+</p>
