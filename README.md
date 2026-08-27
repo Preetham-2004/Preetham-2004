@@ -41,8 +41,13 @@
 
 <br>
 
-### Contribution Arcade 🎮
+### Beyond the Code
 
 <p align="center">
-  <img src="./profile-game.svg" alt="Contribution Arcade" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding"/>
 </p>
+
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
+
