@@ -11,7 +11,6 @@
 * 🎓 B.E. **Information Science & Engineering**
 * 🧠 Going deeper into **AI Engineering** — Generative AI, RAG, AI Agents & System Design
 * ⚙️ Backend developer building **scalable APIs and full stack applications**
-* 🎯 Founder building **SensLabs**, a sensitivity advisor for FPS gamers
 * 📫 Reach me at **[preethambhat1104@gmail.com](mailto:preethambhat1104@gmail.com)**
 
 <br>
@@ -20,9 +19,6 @@
 
 **📄 Multi-Plant Disease and Severity Detection in Single Species Using Deep Learning**
 Research project using deep learning to detect plant diseases and estimate their severity. The paper was accepted and is **Scopus indexed**.
-
-**🎯 SensLab** *(startup, in progress)*
-Every player moves differently. SensLab uses your DPI and comfortable mouse movement to suggest a starting sensitivity for VALORANT or Counter-Strike 2. You can compare nearby options, try them in focused drills, and decide what feels right for you.
 
 <br>
 
